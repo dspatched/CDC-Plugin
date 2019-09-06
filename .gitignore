@@ -1,0 +1,13 @@
+.gradle
+.idea
+dist
+.DS_Store
+build
+*.iml
+classes
+*.log
+docker/application/*
+dockerdb/database/*
+out
+.allure
+**/build.json
